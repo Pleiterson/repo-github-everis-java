@@ -18,7 +18,7 @@
 <!--About session-->
 <h1 align="center">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</h1>
 
-Projeto do Bootcamp everis Talents - Java da [Digital Innovation One](https://digitalinnovation.one/)
+Projeto do Bootcamp everis New Talents - Java da [Digital Innovation One](https://digitalinnovation.one/)
 
 Reforce seu conhecimento em Git com um desafio totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Com isso, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
 
